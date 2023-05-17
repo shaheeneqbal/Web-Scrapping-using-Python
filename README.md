@@ -4,7 +4,9 @@ This project provides a Python-based solution for web scraping, allowing us to e
 
 # Installation
 pip install pandas
+
 pip install request
+
 pip install bs4
 
 ### For Scrapping, I am using the website given below
