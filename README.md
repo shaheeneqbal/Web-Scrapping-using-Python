@@ -6,7 +6,7 @@ Web scraping has become an essential technique for extracting valuable data from
 ### For Scrapping, using the website given below
 http://quotes.toscrape.com/page/1/
 ### Prerequisites
-Before begin, ensure that we have the following prerequisite:
+Before begin, ensure that we have the following prerequisites:
 * Jupyter Notebook, VS Code or Google Colab
 * Excel
 ### Step-by-Step Guide to Extract Data from a Website using Web Scraping
